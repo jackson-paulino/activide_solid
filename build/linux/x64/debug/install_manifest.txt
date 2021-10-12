@@ -1,0 +1,10 @@
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/testapp
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/j-henrique/Documentos/Flutter/Todo-list-MVVM/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
